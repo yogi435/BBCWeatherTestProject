@@ -31,7 +31,7 @@ namespace BBCWeather
             Driver = new InternetExplorerDriver(options);
 
             Driver.Navigate().GoToUrl("http://www.bbc.co.uk/weather/");
-
+           
             Driver.FindElement(By.Name("search")).SendKeys("Reading,Reading");
             Driver.FindElement(By.Name("submitBtn")).Click();
             Thread.Sleep(TimeSpan.FromSeconds(2));

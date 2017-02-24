@@ -6,3 +6,10 @@ r:\my documents\visual studio 2015\Projects\BBCWeather\BBCWeather\bin\Debug\WebD
 r:\my documents\visual studio 2015\Projects\BBCWeather\BBCWeather\obj\Debug\BBCWeather.csprojResolveAssemblyReference.cache
 r:\my documents\visual studio 2015\Projects\BBCWeather\BBCWeather\obj\Debug\BBCWeather.dll
 r:\my documents\visual studio 2015\Projects\BBCWeather\BBCWeather\obj\Debug\BBCWeather.pdb
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\bin\Debug\BBCWeather.dll.config
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\bin\Debug\BBCWeather.dll
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\bin\Debug\BBCWeather.pdb
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\bin\Debug\WebDriver.dll
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\bin\Debug\WebDriver.xml
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\obj\Debug\BBCWeather.dll
+C:\Users\yogendar\Source\Repos\TestSolution\BBCWeather\obj\Debug\BBCWeather.pdb
